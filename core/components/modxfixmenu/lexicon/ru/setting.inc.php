@@ -7,11 +7,11 @@ $_lang['setting_modxfixmenu.open_by_click'] = 'Открывать выпадаю
 $_lang['setting_modxfixmenu.open_by_click_desc'] = 'Включите эту настройку, чтобы пункты верхнего меню раскрывались по клику, а не при наведении мыши.';
 
 $_lang['setting_modxfixmenu.transition'] = 'Время анимации';
-$_lang['setting_modxfixmenu.transition_desc'] = 'Время появления выпадающих меню в секундах, например <code>0.3</code>.<br>
+$_lang['setting_modxfixmenu.transition_desc'] = 'Время появления/исчезновения выпадающих меню в секундах, например <code>0.1</code>.<br>
 Оставьте <code>0</code>, чтобы выключить анимацию.';
 
 $_lang['setting_modxfixmenu.autoclose_timeout'] = 'Таймер закрытия';
-$_lang['setting_modxfixmenu.autoclose_timeout_desc'] = 'Время в секундах, после которого закроется выпадающее меню, если увести с него курсор мыши. Например <code>0.1</code>.
+$_lang['setting_modxfixmenu.autoclose_timeout_desc'] = 'Время в секундах, после которого закроется выпадающее меню, если увести с него курсор мыши. Например <code>0.5</code>.<br>
 Данная опция работает только, если включено раскрытие меню по клику.';
 
 $_lang['setting_modxfixmenu.css_classname'] = 'Имя CSS класса';
