@@ -1,0 +1,5 @@
+Changelog for MODxFixMenu.
+
+0.0.1-beta
+==============
+- Init
